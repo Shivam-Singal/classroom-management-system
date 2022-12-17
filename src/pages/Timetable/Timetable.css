@@ -1,0 +1,40 @@
+.Timetable__timetable-component
+{
+    margin-top: 5vh;
+    margin-left: 7rem;
+    padding-bottom: 0;
+}
+
+.fc-event-main
+{
+    font-size: 10px;
+}
+
+.tt-small
+{
+    display: none;
+}
+
+@media only screen and (max-width : 768px)
+{
+    .row
+    {
+        justify-content: center;
+    }
+
+    .tt-large
+    {
+        display: none;
+    }
+
+    .tt-small
+    {
+        display: block;
+    }
+
+    .Timetable__timetable-component
+    {
+        justify-content: center;
+        margin-left: 0;
+    }
+}

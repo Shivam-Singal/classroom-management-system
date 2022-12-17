@@ -1,0 +1,43 @@
+.Resources_Card {
+  margin-bottom: 1%;
+}
+.Resources_CardHeader:hover {
+  background-color: #6673fd;
+  transition: 0.5s;
+  color: whitesmoke;
+}
+.Resources_Description {
+  padding: 1.5%;
+}
+.Resources_Link {
+  padding: 0% 1.5%;
+}
+
+.Resources__view-resource {
+  width: 20%;
+  background-color: #f19b84;
+  padding: 1%;
+  text-align: center;
+  color: white;
+  box-shadow: 4px 4px 8px #9a9a9a;
+  transition: 0.5s;
+  border-radius: 5px;
+  border: none;
+}
+
+.Resources__view-resource:hover {
+  box-shadow: none;
+}
+
+.Resources__view-resource a {
+  text-decoration: none;
+  color: white;
+}
+
+.Resources_Name {
+  float: left;
+}
+
+.Resources_Date {
+  float: right;
+}

@@ -1,0 +1,114 @@
+.heading {
+  margin-left: 15vw;
+  margin-bottom: 5vh;
+}
+
+.cards-row {
+  margin-left: 15vw;
+  display: flex;
+  flex-direction: row;
+  margin-right: 5vw;
+  width: 100%;
+}
+
+.class-loading {
+  margin-left: 12rem;
+}
+
+.Create_Classroom, .Join_Classroom 
+{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 5px;
+  padding: 8px;
+  border: none;
+  background-color: #f19b84;
+  color: white;
+  box-shadow: 4px 4px 8px #9a9a9a;
+  transition: 0.5s;
+  width: 200px;
+}
+
+.Create_Classroom h6, .Join_Classroom h6
+{
+  margin: 0;
+}
+
+.Create_Classroom i, .Join_Classroom i
+{
+  color: white;
+}
+
+.Create_Classroom:hover, .Join_Classroom:hover 
+{
+  background-color: #f19b84;
+  box-shadow: none;
+}
+
+@media only screen and (max-width: 768px) 
+{
+  .create
+  {
+    color: white;
+  }
+
+  .TeacherClassrooms__create-btn
+  {
+    display: flex;
+    justify-content: center;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .Create_Classroom
+  {
+    margin-bottom: 10px;
+  }
+
+  .Create_Classroom h6
+  {
+    margin: 0;
+  }
+
+  .TeacherClassrooms__list
+  {
+    margin-bottom: 5rem;
+    margin-left: 0;
+  }
+
+  .StudentClassrooms__join
+  {
+    margin: 0;
+  }
+
+  .StudentClassrooms__join .col-lg-3:first-child
+  {
+    text-align: left;
+    padding: 0;
+    margin: 0;
+  }
+
+  .StudentClassrooms__join .StudentClassrooms__join-btn
+  {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+
+  .StudentClassrooms__join .StudentClassrooms__join-btn button h6
+  {
+    margin: 0;
+  }
+
+  .StudentClassrooms__cards
+  {
+    margin-bottom: 5rem;
+    margin-left: 0;
+  }
+
+  .card-image
+  {
+    display: none;
+  }
+}
