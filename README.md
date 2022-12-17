@@ -1,19 +1,14 @@
-# Tita - Classroom management system
+# Classroom management system
 
 ## About
 
 Students and teachers often face difficulties while managing time-tables, assignments, and quizzes. Such problems arise due to the unavailability of a centralized management system where-in the communication between the teachers and students can be made efficient. <br>
-The purpose of TiTa- Classroom Management System, at a University level, is to manage time-tables, assignments, and quizzes for teachers and students
+The purpose of Classroom Management System, at a University level, is to manage time-tables, assignments, and quizzes for teachers and students
 
 <hr>
 
 ## Installation
 
-### Clone to your local repo
-
-```
-    git clone git@github.com:TiTa-Classroom-Management-System/TiTa-Frontend.git
-```
 
 ### Install dependencies
 
