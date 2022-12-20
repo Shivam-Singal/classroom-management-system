@@ -42,5 +42,12 @@ Create a new file .env in root of project and add the following contents.
 ### Snapshots
 
   <img src='./media/Screenshot 2022-12-20 at 12.43.46 PM.png' alt='Getting the Data' />
+  <img src='./media/Screenshot 2022-12-20 at 12.44.06 PM.png' alt='Getting the Data' />
+  <img src='./media/Screenshot 2022-12-20 at 12.44.18 PM.png' alt='Getting the Data' />
+  <img src='./media/Screenshot 2022-12-20 at 12.44.38 PM.png' alt='Getting the Data' />
+  <img src='./media/Screenshot 2022-12-20 at 12.44.50 PM.png' alt='Getting the Data' />
+  <img src='./media/Screenshot 2022-12-20 at 12.44.57 PM.png' alt='Getting the Data' />
+  <img src='./media/Screenshot 2022-12-20 at 12.45.06 PM.png' alt='Getting the Data' />
+  <img src='./media/Screenshot 2022-12-20 at 12.45.16 PM.png' alt='Getting the Data' />
 
 <hr>
