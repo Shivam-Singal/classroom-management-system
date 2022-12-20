@@ -41,7 +41,6 @@ Create a new file .env in root of project and add the following contents.
 
 ### Snapshots
 
-
-  <img src='Screenshot 2022-12-20 at 12.43.46 PM.png' alt='Getting the Data' />
+  <img src='./media/Screenshot 2022-12-20 at 12.43.46 PM.png' alt='Getting the Data' />
 
 <hr>
